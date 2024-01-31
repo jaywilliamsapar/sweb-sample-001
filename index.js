@@ -8,3 +8,6 @@ navItems.forEach((navItem, i) => {
     navItem.className = "nav-item active";
   });
 });
+
+
+

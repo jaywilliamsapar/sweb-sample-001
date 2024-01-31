@@ -941,3 +941,38 @@ main {
     display: none;
   }
 }
+
+
+
+
+/* 
+.left-content {
+    grid-area: leftContent;
+		grid-template-rows: 45% 55%;
+    padding: 10px 20px 10px;
+  }
+
+  .right-content {
+    grid-area: rightContent;
+		grid-template-rows: 5% 40% 50%;
+    margin: 15px 15px 0 15px;
+    padding: 10px 0 0;
+    gap: 15px;
+  }
+
+  .activities,
+  .weekly-schedule {
+    margin-top: 10px;
+  }
+
+  .active-calories-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .friends-activity {
+    display: none;
+  }
+} */
